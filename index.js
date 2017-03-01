@@ -1,1 +1,0 @@
-This is a new README for azureProject!!!
